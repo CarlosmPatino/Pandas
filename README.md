@@ -12,7 +12,11 @@ Este archivo forma parte de mi portafolio y muestra mis habilidades en el manejo
 
 
 🛠️ Requisitos
-Python 3.11.1
+
+Python 3.11.9
+
 pandas
 
-📂 Archivo: pandas.ipynb – Contiene el código detallado y comentarios explicativos.
+numpy
+
+
